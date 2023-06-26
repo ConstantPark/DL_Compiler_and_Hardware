@@ -4,7 +4,7 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 
 
 ## Presentation Order
-When | Who | What | Links | Issue # | Etc.
+When |  Who  | What | Links | Issue # | Etc.
 ---- | --------- | ----------------------------------------- | ----------------------- | --------------------- | ----
 7/5 | 박상수 | Introduction to Efficient AI Study | - | #1 | -
 7/19 | - | Challenges on Optimization of LLM Inference | - | #2 | -
