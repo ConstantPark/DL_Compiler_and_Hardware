@@ -1,6 +1,6 @@
 # DL_Compiler_and_Hardware Study
 
-This is a repository of the study "DL Compiler and Hardware". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`, 'PIM/CIM', 'NPU'. Our study is based on recent papaers (Under recent two years). We discuss topics such as `HW architecture`, `SW acceleration`.
+This is a repository of the study "DL Compiler and Hardware". The goal of this study is to understand the acceleration of nerual networks with DL Compiler. The topic of acceleration includes `On-Device AI`,`DL Compiler`, `TVM`, `ONNX` , `Compiler`, `PIM/CIM`, `NPU`. Our study is based on recent papaers (Under recent two years). We discuss topics such as `HW architecture`, `SW acceleration`.
 
 
 ## Presentation with Video
