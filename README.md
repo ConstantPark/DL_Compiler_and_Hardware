@@ -4,18 +4,18 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 
 
 ## Presentation Order
-When |  Who  | What | Links | Issue # | Etc.
----- | --------- | ----------------------------------------- | ----------------------- | --------------------- | ----
-7/5 | 박상수 | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator | - | #1 | -
-7/19 | - | - | - | #2 | -
-8/02 | - | - | - | #3 | -
-8/16 | - | - | - | #4 | -
-8/30 | - | - | - | #5 | -
-9/13 | - | - | - | #6 | -
-9/27 | - | - | - | #7 | -
-10/11 | - | - | - | #8 | -
-10/25 |  - | - | - | #9 | -
-11/08 | - | - | - | #10 | -
-11/22 | - | - | - | #11 | -
-12/6 | - | - | - | #12 | -
-12/20 | - | - | - | #13 | -
+| When  | Who    | What                                                                                    | Links | Issue # | Etc. |
+| ----- | ------ | --------------------------------------------------------------------------------------- | ----- | ------- | ---- |
+| 7/5   | 박상수 | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator       | -     | #1      | -    |
+| 7/19  | -      | -                                                                                       | -     | #2      | -    |
+| 8/02  | -      | -                                                                                       | -     | #3      | -    |
+| 8/16  | -      | -                                                                                       | -     | #4      | -    |
+| 8/30  | -      | -                                                                                       | -     | #5      | -    |
+| 9/13  | 이현승 | V10: Hardware-Assisted NPU Multi-tenancy for Improved Resource Utilization and Fairness | -     | #6      | -    |
+| 9/27  | -      | -                                                                                       | -     | #7      | -    |
+| 10/11 | -      | -                                                                                       | -     | #8      | -    |
+| 10/25 | -      | -                                                                                       | -     | #9      | -    |
+| 11/08 | -      | -                                                                                       | -     | #10     | -    |
+| 11/22 | -      | -                                                                                       | -     | #11     | -    |
+| 12/6  | -      | -                                                                                       | -     | #12     | -    |
+| 12/20 | -      | -                                                                                       | -     | #13     | -    |
