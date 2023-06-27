@@ -8,7 +8,7 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 | ----- |  --------  | --------------------------------------------------------------------------------------- | ----- | ------- | ---- |
 | 7/5   |  박상수  | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator       | -     | #1      | -    |
 | 7/19  | -      | -                                                                                       | -     | #2      | -    |
-| 8/02  | -      | -                                                                                       | -     | #3      | -    |
+| 8/2  | -      | -                                                                                       | -     | #3      | -    |
 | 8/16  | -      | -                                                                                       | -     | #4      | -    |
 | 8/30  |  김정현 | FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction | - | #5 | -   |
 | 9/13  | 이현승 | V10: Hardware-Assisted NPU Multi-tenancy for Improved Resource Utilization and Fairness | -     | #6      | -    |
