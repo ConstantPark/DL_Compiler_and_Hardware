@@ -11,7 +11,7 @@ When |  Who  | What | Links | Issue # | Etc.
 8/02 | - | - | - | #3 | -
 8/16 | - | - | - | #4 | -
 8/30 | - | - | - | #5 | -
-9/13 | - | - | - | #6 | -
+9/13 | 김정현 | FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction | - | #6 | -
 9/27 | - | - | - | #7 | -
 10/11 | - | - | - | #8 | -
 10/25 |  - | - | - | #9 | -
