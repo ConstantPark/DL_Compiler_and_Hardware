@@ -4,8 +4,8 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 
 
 ## Presentation Order
-| When  |   Who    | What                                                                                    | Links | Issue # | Etc. |
-| ----- | -------- | --------------------------------------------------------------------------------------- | ----- | ------- | ---- |
+| When  |    Who     | What                                                                                    | Links | Issue # | Etc. |
+| ----- |  --------  | --------------------------------------------------------------------------------------- | ----- | ------- | ---- |
 | 7/5   | 박상수 | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator       | -     | #1      | -    |
 | 7/19  | -      | -                                                                                       | -     | #2      | -    |
 | 8/02  | -      | -                                                                                       | -     | #3      | -    |
