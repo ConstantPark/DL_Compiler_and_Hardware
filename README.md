@@ -19,3 +19,4 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 | 11/22 | -      | -                                                                                       | -     | #11     | -    |
 | 12/6  | -      | -                                                                                       | -     | #12     | -    |
 | 12/20 | -      | -                                                                                       | -     | #13     | -    |
+| 1/10 | -      | -                                                                                       | -     | #14   | -    |
