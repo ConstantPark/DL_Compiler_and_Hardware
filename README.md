@@ -6,8 +6,8 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 ## Presentation Order
 | When  |    Presenter     | What                                                                                    | Links | Issue | Etc. |
 | ----- |--------| --------------------------------------------------------------------------------------- | ----- | ------- | ---- |
-| 7/5   |  박상수  | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator       | [#1](https://youtu.be/g-MJlRgRfto)     | #1      | -    |
-| 7/19  | 이재윤 | Fireiron: A Data-Movement-Aware Scheduling Language for GPUs                                                                                       | -     | #2      | -    |
+| 7/5   |  박상수  | Introduction to Study & MTIA v1: Meta’s first-generation AI inference accelerator       | [#1](https://youtu.be/_nJTlIFuNUE)    | #1      | -    |
+| 7/19  | 이재윤 | On-Device Training Under 256KB Memory                                                                                       | [#2](https://youtu.be/6n0Mzwgh8AM)     | #2      | -    |
 | 8/2  | 이민규      | Accelerating Personalized Recommendation with Cross-level Near-Memory Processing                                                                                          | -     | #3      | -    |
 | 8/16  | 류재훈 | NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers      | -     | #4      | -    |
 | 8/30  |  김정현 | FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction | - | #5 | -   |
