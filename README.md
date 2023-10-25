@@ -14,7 +14,7 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 | 9/13  | 이현승 | V10: Hardware-Assisted NPU Multi-tenancy for Improved Resource Utilization and Fairness | -     | #6      | -    |
 | 9/27  |  유준봉  | GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks | -     | #7      | -    |
 | 10/11 | -   | -                                                                                       | -     | #8      | -    |
-| 10/25 | 문관경 | TBD                                                                                       | -     | #9      | -    |
+| ~~10/25~~ | ~~문관경~~ | ~~TBD~~                                                                                       | -     | ~~#9~~      | -    |
 | 11/08 | 윤유경  | TBD                                                                                       | -     | #10     | -    |
 | 11/22 | -      | -                                                                                       | -     | #11     | -    |
 | 12/6  | -      | -                                                                                       | -     | #12     | -    |
