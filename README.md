@@ -15,7 +15,7 @@ This is a repository of the study "DL Compiler and Hardware". The goal of this s
 | 9/27  |  유준봉  | GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks | -     | #7      | -    |
 | 10/11 | -   | -                                                                                       | -     | #8      | -    |
 | ~~10/25~~ | ~~문관경~~ | ~~TBD~~                                                                                       | -     | ~~#9~~      | -    |
-| 11/08 | 윤유경  | TBD                                                                                       | -     | #10     | -    |
+| 11/08 | 윤유경  |     BOLT: BRIDGING THE GAP BETWEEN AUTO-TUNERS AND HARDWARE-NATIVE PERFORMANCE          | -     | #10     | -    |
 | 11/22 | -      | -                                                                                       | -     | #11     | -    |
 | 12/6  | -      | -                                                                                       | -     | #12     | -    |
 | 12/20 | -      | -                                                                                       | -     | #13     | -    |
